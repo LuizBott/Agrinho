@@ -1,0 +1,6 @@
+blackground -color: :shadow;
+font-size:16px;
+
+P {
+text-shadow: rgb(102, 162, 231);
+}
